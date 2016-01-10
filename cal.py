@@ -2,7 +2,7 @@
 print '------------------'
 print 'addition .....1'
 print 'subtraction...2'
-print 'multiply......3'
+print 'multiply.......3'
 print 'division......4'
 print '------------------'
 ch=input('enter your choice : ') #
